@@ -173,7 +173,7 @@ python database.py
 python app.py
 ```
 
-App runs at **http://127.0.0.1:5000**
+App runs at: [https://redy-deploy.onrender.com](https://redy-deploy.onrender.com)
 
 ### Configure Email
 
